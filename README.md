@@ -1,6 +1,22 @@
 # cheatsheets
 Personal repository with handy cheatsheets.
 
+## Development
+
+<table>
+    <tr>
+        <td>
+            <a href="sheets/Wordpress-Cheat-Sheet.pdf" target="_blank">PDF</a>
+        </td>
+        <td>
+            <a href="http://cdn.tutsplus.com/wp/uploads/legacy/resources/Wordpress-Cheat-Sheet.pdf" target="_blank">Link</a>
+        </td>
+        <td>
+            WordPress Cheat Sheet
+        </td> 
+    </tr>
+</table>
+
 ## Linux
 
 <table>
