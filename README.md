@@ -17,4 +17,21 @@ Personal repository with handy cheatsheets.
     </tr>
 </table>
 
+## Reverse Engineering
+
+<table>
+    <tr>
+        <td>
+            <a href="sheets/gdb-refcard.pdf" target="_blank">PDF</a>
+        </td>
+        <td>
+            <a href="http://users.ece.utexas.edu/~adnan/gdb-refcard.pdf" target="_blank">Link</a>
+        </td>
+        <td>
+            GDB v4 Quick Reference
+        </td> 
+    </tr>
+</table>
+
+
 
