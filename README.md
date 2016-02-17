@@ -31,6 +31,17 @@ Personal repository with handy cheatsheets.
             GDB v4 Quick Reference
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="sheets/cheat sheet reverse v5.png" target="_blank">PDF</a>
+        </td>
+        <td>
+            <a href="http://r00ted.com/cheat%20sheet%20reverse%20v5.png" target="_blank">Link</a>
+        </td>
+        <td>
+            Reverse engineering for malware analysis
+        </td> 
+    </tr>
 </table>
 
 
