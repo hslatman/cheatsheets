@@ -15,6 +15,17 @@ Personal repository with handy cheatsheets.
             WordPress Cheat Sheet
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="sheets/php-regex-cheat-sheet.pdf" target="_blank">PDF</a>
+        </td>
+        <td>
+            <a href="https://courses.cs.washington.edu/courses/cse190m/12sp/cheat-sheets/php-regex-cheat-sheet.pdf" target="_blank">Link</a>
+        </td>
+        <td>
+            PHP PCRE Cheat Sheet
+        </td> 
+    </tr>
 </table>
 
 ## Linux
