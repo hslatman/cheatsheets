@@ -23,7 +23,7 @@ Personal repository with handy cheatsheets.
             <a href="https://courses.cs.washington.edu/courses/cse190m/12sp/cheat-sheets/php-regex-cheat-sheet.pdf" target="_blank">Link</a>
         </td>
         <td>
-            PHP PCRE Cheat Sheet
+            PHP PCRE (regex) Cheat Sheet
         </td> 
     </tr>
 </table>
