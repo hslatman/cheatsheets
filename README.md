@@ -115,4 +115,12 @@ Personal repository with handy cheatsheets.
             XSS Cheat Sheet
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/view" target="_blank">Link</a>
+        </td>
+        <td>
+            SSRF Bible Cheat Sheet
+        </td>
+    </tr>
 </table>
