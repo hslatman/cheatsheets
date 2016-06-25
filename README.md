@@ -13,7 +13,7 @@ Personal repository with handy cheatsheets.
         </td>
         <td>
             WordPress Cheat Sheet
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -24,7 +24,7 @@ Personal repository with handy cheatsheets.
         </td>
         <td>
             PHP PCRE (regex) Cheat Sheet
-        </td> 
+        </td>
     </tr>
 </table>
 
@@ -40,7 +40,7 @@ Personal repository with handy cheatsheets.
         </td>
         <td>
             LINUX System Call Quick Reference
-        </td> 
+        </td>
     </tr>
 </table>
 
@@ -56,7 +56,7 @@ Personal repository with handy cheatsheets.
         </td>
         <td>
             Scapy Cheat Sheet by SANS
-        </td> 
+        </td>
     </tr>
 </table>
 
@@ -75,7 +75,7 @@ Personal repository with handy cheatsheets.
         </td>
         <td>
             GDB v4 Quick Reference
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -86,7 +86,7 @@ Personal repository with handy cheatsheets.
         </td>
         <td>
             Reverse engineering for malware analysis
-        </td> 
+        </td>
     </tr>
 </table>
 
@@ -100,7 +100,19 @@ Personal repository with handy cheatsheets.
         </td>
         <td>
             Some cheat sheets about (offensive) PowerShell projects
-        </td> 
+        </td>
     </tr>
 </table>
 
+## Web Application Testing
+
+<table>
+    <tr>
+        <td>
+            <a href="http://brutelogic.com.br/blog/cheat-sheet/" target="_blank">Link</a>
+        </td>
+        <td>
+            XSS Cheat Sheet
+        </td>
+    </tr>
+</table>
