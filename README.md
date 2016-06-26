@@ -109,6 +109,14 @@ Personal repository with handy cheatsheets.
 <table>
     <tr>
         <td>
+            <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/" target="_blank">Link</a>
+        </td>
+        <td>
+            SQL Injection Cheat Sheet
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://brutelogic.com.br/blog/cheat-sheet/" target="_blank">Link</a>
         </td>
         <td>
