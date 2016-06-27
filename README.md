@@ -112,7 +112,23 @@ Personal repository with handy cheatsheets.
             <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/" target="_blank">Link</a>
         </td>
         <td>
-            SQL Injection Cheat Sheet
+            SQL Injection (Netsparker)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.sqlinjectionwiki.com/Categories/2/mysql-sql-injection-cheat-sheet/" target="_blank">Link</a>
+        </td>
+        <td>
+            SQL Injection (Wiki)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet" target="_blank">Link</a>
+        </td>
+        <td>
+            SQL Injection (pentestMonkey)
         </td>
     </tr>
     <tr>
