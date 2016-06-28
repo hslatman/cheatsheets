@@ -128,6 +128,14 @@ Personal repository with handy cheatsheets.
 <table>
     <tr>
         <td>
+            <a href="https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series" target="_blank">Link</a>
+        </td>
+        <td>
+            OWASP Cheat Sheet Series
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/" target="_blank">Link</a>
         </td>
         <td>
