@@ -102,6 +102,14 @@ Personal repository with handy cheatsheets.
             Some cheat sheets about (offensive) PowerShell projects
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://blogs.sans.org/pen-testing/files/2016/05/PowerShellCheatSheet_v41.pdf" target="_blank">Link</a>
+        </td>
+        <td>
+            SANS PowerShell Cheat Sheet
+        </td>
+    </tr>
 </table>
 
 ## Web Application Testing
