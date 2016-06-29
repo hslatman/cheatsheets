@@ -174,6 +174,14 @@ Personal repository with handy cheatsheets.
             SSRF Bible Cheat Sheet
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet" target="_blank">Link</a>
+        </td>
+        <td>
+            SANS Web Application Testing Sheet
+        </td>
+    </tr>
 </table>
 
 ## Penetration Testing
@@ -186,4 +194,6 @@ Personal repository with handy cheatsheets.
         <td>
             Penetration Testing Tools Cheat Sheet
         </td>
+    </tr>
+
 </table>
