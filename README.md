@@ -175,3 +175,15 @@ Personal repository with handy cheatsheets.
         </td>
     </tr>
 </table>
+
+## Penetration Testing
+
+<table>
+    <tr>
+        <td>
+            <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/" target="_blank">Link</a>
+        </td>
+        <td>
+            Penetration Testing Tools Cheat Sheet
+        </td>
+</table>
