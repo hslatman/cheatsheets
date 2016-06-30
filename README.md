@@ -195,5 +195,12 @@ Personal repository with handy cheatsheets.
             Penetration Testing Tools Cheat Sheet
         </td>
     </tr>
-
+    <tr>
+        <td>
+            <a href="https://github.com/jshaw87/Cheatsheets" target="_blank">Link</a>
+        </td>
+        <td>
+            Repo with Penetration Testing/Security Cheat Sheets
+        </td>
+    </tr>
 </table>
