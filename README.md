@@ -91,4 +91,16 @@ Personal repository with handy cheatsheets.
 </table>
 
 
+## PowerShell
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/HarmJ0y/CheatSheets" target="_blank">Repo</a>
+        </td>
+        <td>
+            Some cheat sheets about (offensive) PowerShell projects
+        </td> 
+    </tr>
+</table>
 
